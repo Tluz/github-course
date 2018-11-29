@@ -1,5 +1,5 @@
 # Github Curso
 
-Teste para enteneder o git
+Teste para entender o git
 
 Continuando com o teste
